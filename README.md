@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanjana1997&label=Profile%20views&color=0e75b6&style=flat" alt="dulanjana1997" /> </p>
 
-- 🌱 I’m currently learning **Nodejs,Reactjs,Sequelize ORM**
+- 🌱 I’m currently learning **Nodejs,Reactjs,Sequelize ORM and UI/UX Design**
 
-- 💬 Ask me about **React,SQL**
+- 💬 Ask me about **React,SQL and UI?UX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
